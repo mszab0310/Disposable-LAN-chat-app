@@ -1,0 +1,16 @@
+E:\sisharp\chat app\chat application\Chat server\bin\Debug\net5.0\Chat server.exe
+E:\sisharp\chat app\chat application\Chat server\bin\Debug\net5.0\Chat server.deps.json
+E:\sisharp\chat app\chat application\Chat server\bin\Debug\net5.0\Chat server.runtimeconfig.json
+E:\sisharp\chat app\chat application\Chat server\bin\Debug\net5.0\Chat server.runtimeconfig.dev.json
+E:\sisharp\chat app\chat application\Chat server\bin\Debug\net5.0\Chat server.dll
+E:\sisharp\chat app\chat application\Chat server\bin\Debug\net5.0\Chat server.pdb
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.csproj.AssemblyReference.cache
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.GeneratedMSBuildEditorConfig.editorconfig
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.AssemblyInfoInputs.cache
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.AssemblyInfo.cs
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.csproj.CoreCompileInputs.cache
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.dll
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\refint\Chat server.dll
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.pdb
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\Chat server.genruntimeconfig.cache
+E:\sisharp\chat app\chat application\Chat server\obj\Debug\net5.0\ref\Chat server.dll

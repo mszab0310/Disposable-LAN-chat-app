@@ -1,0 +1,27 @@
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.csproj.AssemblyReference.cache
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Themes\ButtonTheme.baml
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Themes\StylishScrollbar.baml
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\MVVM\View\MainWindow.g.cs
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\App.g.cs
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client_Content.g.cs
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client_MarkupCompile.cache
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client_MarkupCompile.lref
+E:\sisharp\chat app\chat application\chat application\bin\Debug\net5.0-windows\Chat Client.exe
+E:\sisharp\chat app\chat application\chat application\bin\Debug\net5.0-windows\Chat Client.deps.json
+E:\sisharp\chat app\chat application\chat application\bin\Debug\net5.0-windows\Chat Client.runtimeconfig.json
+E:\sisharp\chat app\chat application\chat application\bin\Debug\net5.0-windows\Chat Client.runtimeconfig.dev.json
+E:\sisharp\chat app\chat application\chat application\bin\Debug\net5.0-windows\Chat Client.dll
+E:\sisharp\chat app\chat application\chat application\bin\Debug\net5.0-windows\Chat Client.pdb
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\App.baml
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\MVVM\View\MainWindow.baml
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.g.resources
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.AssemblyInfoInputs.cache
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.AssemblyInfo.cs
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.csproj.CoreCompileInputs.cache
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.dll
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\refint\Chat Client.dll
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.pdb
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\Chat Client.genruntimeconfig.cache
+E:\sisharp\chat app\chat application\chat application\obj\Debug\net5.0-windows\ref\Chat Client.dll

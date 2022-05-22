@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>chat_application</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\chat.png" />
+    <None Remove="Icons\chat1.png" />
+    <None Remove="Icons\chatting.png" />
+    <None Remove="Icons\group.png" />
+    <None Remove="Icons\plug - Copy.png" />
+    <None Remove="Icons\plug.png" />
+    <None Remove="Icons\send-message - Copy.png" />
+    <None Remove="Icons\send-message.png" />
+    <None Remove="Icons\user - Copy.png" />
+    <None Remove="Icons\user.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icons\dekstop.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\chat.png" />
+    <Resource Include="Icons\chat1.png" />
+    <Resource Include="Icons\chatting.png" />
+    <Resource Include="Icons\group.png" />
+    <Resource Include="Icons\plug - Copy.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\plug.png" />
+    <Resource Include="Icons\send-message - Copy.png" />
+    <Resource Include="Icons\send-message.png" />
+    <Resource Include="Icons\user - Copy.png" />
+    <Resource Include="Icons\user.png" />
+  </ItemGroup>
+
+</Project>
