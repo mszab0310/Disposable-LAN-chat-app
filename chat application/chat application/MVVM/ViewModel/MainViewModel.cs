@@ -31,15 +31,10 @@ namespace chat_application.MVVM.ViewModel
             _server.connectedEvent += UserConnected;
             _server.msgRecievedEvent += MessageRecieved;
             _server.userDisconnectedEvent += RemoveUser;
-
-            try
-            {
-                ConnectToServerCommand = new RelayCommand(o => _server.ConnectToServer(Username, Address), o => (!string.IsNullOrEmpty(Username) && !string.IsNullOrEmpty(Address)));
-            }
-            catch (Exception)
-            {
-                Messages.Add("Connection failed, please check the IP and/or port and try again");
-            }
+                ConnectToServerCommand = new RelayCommand(o => { try { _server.ConnectToServer(Username, Address); } catch(Exception) { Messages.Add("Connection Failed, please check ip or port");
+                    }; }, o => (!string.IsNullOrEmpty(Username) && !string.IsNullOrEmpty(Address)));
+            
+            
             SendMessageCommand = new RelayCommand(o => _server.SendMessageToServer(Message), o => !string.IsNullOrEmpty(Message));
         }
 
